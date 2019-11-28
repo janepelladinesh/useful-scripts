@@ -45,7 +45,7 @@ done
 
 NAMESPACE_LIST="${NS_LIST}"
 OC_TOKEN="MqeIeG738V46GOLSiGVVCPbhc7JhlfTf4Up2eJDfpZA"
-OC_REST_API_URL="https://console.openshift247.bluehatcloud.com:8443"
+OC_REST_API_URL="K6QBc5YVNshG4t5hz2clC-tQz1ZGv0n1NpWHiW6YkUU"
 
 if [ ! -z "$NAMESPACE_LIST" ]; then
   echo
