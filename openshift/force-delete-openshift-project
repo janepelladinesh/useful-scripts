@@ -44,8 +44,8 @@ Examples:
 done
 
 NAMESPACE_LIST="${NS_LIST}"
-OC_TOKEN="K6QBc5YVNshG4t5hz2clC-tQz1ZGv0n1NpWHiW6YkUU"
-OC_REST_API_URL="https://console.openshift247.bluehatcloud.com:8443"
+OC_TOKEN="gitgd5rAPneqSF69VweVUPPlrp9eh74p90vypKBPX7k"
+OC_REST_API_URL="https://console.openshift185.bluecloudcourse.com:8443"
 
 if [ ! -z "$NAMESPACE_LIST" ]; then
   echo
